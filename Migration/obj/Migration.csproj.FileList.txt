@@ -1,0 +1,14 @@
+bin\Debug\Migration.exe
+bin\Debug\Migration.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Migration.Form1.resources
+obj\Debug\Migration.Properties.Resources.resources
+obj\Debug\Migration.csproj.GenerateResource.Cache
+obj\Debug\Migration.exe
+obj\Debug\Migration.pdb
+bin\Debug\Business.dll
+bin\Debug\DataAccess.dll
+bin\Debug\DataAccess.pdb
+bin\Debug\Business.pdb
+obj\Debug\Migration.Resource1.resources
+obj\Debug\Migration.frmInserts.resources

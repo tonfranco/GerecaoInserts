@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Migration", "Migration\Migration.csproj", "{F6DE9626-F027-4A4F-BBAD-B52A530EEE7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{3D589C75-76B2-4403-8CB4-698B43CF5707}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business", "Business\Business.csproj", "{C47754A1-754C-4F13-8D66-02FCFFEEC113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6DE9626-F027-4A4F-BBAD-B52A530EEE7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6DE9626-F027-4A4F-BBAD-B52A530EEE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6DE9626-F027-4A4F-BBAD-B52A530EEE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6DE9626-F027-4A4F-BBAD-B52A530EEE7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D589C75-76B2-4403-8CB4-698B43CF5707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D589C75-76B2-4403-8CB4-698B43CF5707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D589C75-76B2-4403-8CB4-698B43CF5707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D589C75-76B2-4403-8CB4-698B43CF5707}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C47754A1-754C-4F13-8D66-02FCFFEEC113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C47754A1-754C-4F13-8D66-02FCFFEEC113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C47754A1-754C-4F13-8D66-02FCFFEEC113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C47754A1-754C-4F13-8D66-02FCFFEEC113}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

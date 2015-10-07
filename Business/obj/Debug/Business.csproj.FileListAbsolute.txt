@@ -1,0 +1,7 @@
+C:\Ton\Projetos\Migration\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Ton\Projetos\Migration\Business\obj\Debug\Business.dll
+C:\Ton\Projetos\Migration\Business\bin\Debug\Business.dll
+C:\Ton\Projetos\Migration\Business\bin\Debug\Business.pdb
+C:\Ton\Projetos\Migration\Business\bin\Debug\DataAccess.dll
+C:\Ton\Projetos\Migration\Business\bin\Debug\DataAccess.pdb
+C:\Ton\Projetos\Migration\Business\obj\Debug\Business.pdb

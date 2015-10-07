@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DataAccess.Classes.queries.resources
+obj\Debug\DataAccess.csproj.GenerateResource.Cache
+bin\Debug\DataAccess.dll.config
+bin\Debug\DataAccess.dll
+bin\Debug\DataAccess.pdb
+obj\Debug\DataAccess.dll
+obj\Debug\DataAccess.pdb

@@ -1,0 +1,8 @@
+bin\Debug\Persistencia.dll.config
+bin\Debug\Persistencia.dll
+bin\Debug\Persistencia.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Persistencia.Classes.queries.resources
+obj\Debug\Persistencia.csproj.GenerateResource.Cache
+obj\Debug\Persistencia.dll
+obj\Debug\Persistencia.pdb
