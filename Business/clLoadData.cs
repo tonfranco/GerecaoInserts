@@ -8,7 +8,7 @@ namespace Business
 {
     public class clLoadData
     {
-        private string _strUser = string.Empty;
+        private string _strUser = string.Empty;  
         private string _strPWD = string.Empty;
         private string _strServerName = string.Empty;
         private clDataAccess _objDataAccess = null;
