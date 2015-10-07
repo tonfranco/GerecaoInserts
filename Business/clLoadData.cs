@@ -18,7 +18,7 @@ namespace Business
         private bool bSqlAuthentication = false;
 
         public bool SqlAuthentication
-        {
+        {      //teste
             get { return bSqlAuthentication; }
             set { bSqlAuthentication = value; }
         }
